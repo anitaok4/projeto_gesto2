@@ -1,0 +1,39 @@
+body
+{
+  color: white;
+  background: #8a89dd;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#resultEmotionName ,#resultEmotionName2 
+{
+  color: black;
+}
+.emotionName
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+
+h2{
+  font-family: 'Caprasimo', cursive;
+  color: rgb(76, 0, 131);
+  
+}
+
+button{
+  background-color: palevioletred;
+  color: black;
+  border-radius: 9px;
+}
